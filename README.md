@@ -1,4 +1,4 @@
-# Lua Quiz Game
+# Quiz Lua
 
 This is a simple quiz game implemented in Lua. The game presents multiple-choice questions to the player and provides immediate feedback. It also clears the screen after each question for a better user experience.
 
